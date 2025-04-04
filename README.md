@@ -6,7 +6,7 @@
 **An open-source project allows you to get any website source code in a few minutes**
 <br>
 
-# V1.3.0 Released
+# V2.0.0 Released
 </div>
 <br>
 <div align="center">
@@ -68,7 +68,7 @@ chmod +x WebGetter.sh
 - Now the tool is working.
 
 <div align="center">
-  <img src="images/TIT.png" width="110%" alt="TIT">
+  <img src="images/tool_sc.png" width="110%" alt="">
 </div>
 <br>
 
