@@ -16,7 +16,7 @@
 
 <div align="center">
   
-<a href="https://www.buymeacoffee.com/armond0x"><img src="https://github.com/Mahmud0808/Iconify/blob/beta/.github/resources/bmc-button.png" width="50%" alt="Buy me a coffee" /></a>
+<a href="https://www.buymeacoffee.com/mrx7014"><img src="https://github.com/Mahmud0808/Iconify/blob/beta/.github/resources/bmc-button.png" width="50%" alt="Buy me a coffee" /></a>
 </div>
 <br>
 
@@ -27,7 +27,7 @@
 - Any Linux system or termux.
 
 > [!NOTE]
-> We recommended to use this free server to test this tool, Check this server form <a href="https://www.github.com/armond0x/SSH-KaliLinux">SSH Kali Linux</a>
+> We recommended to use this free server to test this tool, Check this server form <a href="https://www.github.com/mrx7014/SSH-KaliLinux">SSH Kali Linux</a>
 >
 
 ## You can use it from github actions too
@@ -88,4 +88,4 @@ chmod +x WebGetter.sh
 
 # Credits:
 
-- Linktree: <a href="https://linktr.ee/armond0x">ARMOND</a>
+- Linktree: <a href="https://linktr.ee/mrx7014">MRX7014</a>

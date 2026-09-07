@@ -80,7 +80,7 @@ printf "\033[91mWelcome To WebGetter Tool v2.0.0\033[0m\n"
 sleep 1
 printf "\033[92mAll rights reserved to: Egypt-Open-Source @github\033[0m\n"
 sleep 1
-printf "\033[93mCreated By ARMOND \033[0m\n"
+printf "\033[93mCreated By MRX7014 \033[0m\n"
 sleep 1
 
 printf "\033[1;36m\n
